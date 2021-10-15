@@ -1,0 +1,12 @@
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+        int x,y;
+        x=1;
+        y=2;
+        while(++x<6)y+=x;
+        System.out.println("X:" + x + "  Y:" +y);
+    }
+}
