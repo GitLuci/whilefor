@@ -8,5 +8,20 @@ public class Main {
         y=2;
         while(++x<6)y+=x;
         System.out.println("X:" + x + "  Y:" +y);
+        
+        *\
+        package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+    int x=5, y=5;
+        while(x--> 0)y+=x+2;
+        System.out.println("X:" + x + "  Y:" + y);
+    }
+    }
+        /*
+        
+        
     }
 }
